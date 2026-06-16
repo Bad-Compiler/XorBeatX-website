@@ -1,0 +1,54 @@
+body {
+    background-color: rgb(49, 49, 49);
+}
+
+.Top {
+    display: flex;
+    justify-content: center; /* Centers horizontally */
+    align-items: center; /* Centers vertically */
+    height: 3vh;
+}
+
+.pl {
+    background-color: aqua;
+    width: 35%;
+    height: 100%;
+}
+
+.Upd {
+    background-color: aqua;
+    width: 35%;
+    height: 100%;
+}
+
+.Rand {
+    background-color: aqua;
+    width: 35%;
+    height: 100%;
+}
+
+.middle {
+    display: flex;
+    justify-content: center; /* Centers horizontally */
+    align-items: center; /* Centers vertically */
+    height: 82vh;
+}
+
+.render {
+    border: 1px solid;
+    border-color: black;
+    background-color: gainsboro;
+    width: 100%;
+    height: 100%;
+}
+
+h1 {
+    font-family: monospace;
+    color: aqua;
+}
+
+.bottom {
+    display: flex;
+    justify-content: center; /* Centers horizontally */
+    align-items: center; /* Centers vertically */
+}
